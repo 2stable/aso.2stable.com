@@ -1,14 +1,16 @@
 ---
-layout: clean
+layout: markdown
 title: Privacy Policy
 description: The privacy policy is a boring document but we strongly recommend you to read it thoroughly. It is really short.
+date: "Effective date: March 19, 2021"
+permalink: /privacy-policy/
 ---
-Effective date: December 19, 2020
-
 ### Personal Data
 We don't collect any personal data from your device. Everything you do is saved into your iCloud and is synced across your devices using the same iCloud account.
 
 When you use our software we may record some usage analytics and crash logs. The sole purpose of the data we collect is to help us make better decisions on where to focus our efforts and improve our software.
+
+<br>
 
 ### Usage analytics
 The app usage analytics collected is minimal but essential to help us run our business. Currently we collect:
@@ -18,6 +20,8 @@ Device locale.
 In-App Purchases.
 Device type, CPU architecture, and version of the operating system.
 We use Crashlytics to collect and manage this data.
+
+<br>
 
 ### Crash logs
 Crash logs are, by default, automatically sent on the next app start. These logs contain anonymised data about the crash that can help us identify the cause and potentially provide a fix in a future update. These logs do not contain any data or metadata about the content you create with our software. Here’s what’s collected:
@@ -30,6 +34,8 @@ If an exception was thrown, the plain-text class name and message value of the e
 Low level crash data like instruction pointer, method or function names, signal data, pointer registers, and information about the loaded binary images.
 The application log file.
 We use Crashlytics to collect and manage this data.
+
+<br>
 
 ### Any questions?
 If you have any questions at all, about your data or any other query, kindly contact us [support@2stable.com]({{ site.support_mail }}) We are happy to answer everything.

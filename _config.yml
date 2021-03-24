@@ -12,8 +12,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
-privacy_url: /privacy-policy.html
-terms_of_service_url: /terms-of-service.html
+privacy_url: /privacy-policy/
+date: "Effective date: December 19, 2020"
+terms_of_service_url: /terms-of-service/
 support_mail: mailto:support@2stable.com
-github_username: 2stable
+# github_username: 2stable
 twitter_username: authwidget
+
+app-url: https://apps.apple.com/app/apple-store/id1538761576?pt=122171064&ct=2stable.com.mac&mt=8#?platform=mac
+app-src: https://one-badge.com/b/apple/mac.svg
+app-alt: macOS Apple App Badge
+
+# for terms-of-service
+APP_NAME: ASO
