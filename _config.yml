@@ -33,11 +33,11 @@ features:
     image: <i class="bi bi-puzzle"></i>
     # action: Call to action
   - title: Track Visibility in Search
-    details: Analyze and compare the visibility in search per country and globally. Use our app keywords tools to do keyword research, spy competitors' keywords and compare rankings with them.
+    details: Analyze and compare the visibility in search per country and globally.
     image: <i class="bi bi-bullseye"></i>
     # action: Call to action 
   - title: Keyword Research
-    details: Analyze and choose the most relevant keywords for your app.
+    details: Choose the most relevant keywords for your app.
     image: <i class="bi bi-search"></i>
     # action: Call to action 
   - title: Top Charts
