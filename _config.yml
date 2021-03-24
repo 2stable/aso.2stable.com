@@ -1,7 +1,7 @@
 title: ASO by 2Stable
 email: support@2stable.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  Write an awesome description for your new site here. You can edit this 
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,9 +19,47 @@ support_mail: mailto:support@2stable.com
 # github_username: 2stable
 twitter_username: authwidget
 
+main-title: One ASO Tool for iOS, iPadOS and macOS
+main-description: "Easily track & optimize your App Store Optimization strategy, increase downloads and grow your business with our app marketing tool."
+
 app-url: https://apps.apple.com/app/apple-store/id1538761576?pt=122171064&ct=2stable.com.mac&mt=8#?platform=mac
 app-src: https://one-badge.com/b/apple/mac.svg
 app-alt: macOS Apple App Badge
 
 # for terms-of-service
 APP_NAME: ASO
+
+features:
+  - title: No Account Required
+    details: Easy to set up. You have to remember just one password.
+    image: <i class="bi bi-puzzle"></i>
+    # action: Call to action
+  - title: Track Visibility in Search
+    details: Analyze and compare the visibility in Search per country and globally. Use our app keywords tools to do keyword research, spy competitors' keywords and compare rankings with them. But remember, App Store Optimization is not only about Search.
+    image: <i class="bi bi-bullseye"></i>
+    # action: Call to action 
+  - title: Keyword Research
+    details: Easy to set up. You have to remember just one password.
+    image: <i class="bi bi-search"></i>
+    # action: Call to action 
+  - title: Top Charts
+    details: Easy to set up. You have to remember just one password.
+    image: <i class="bi bi-list-ol"></i>
+    # action: Call to action 
+  - title: Friendly Support
+    details: Easy to set up. You have to remember just one password.
+    image: <i class="bi bi-life-preserver"></i>
+    # action: Call to action 
+  - title: Keyword Rankings
+    details: Easy to set up. You have to remember just one password.
+    image: <i class="bi bi-graph-up"></i>
+    # action: Call to action 
+  - title: No Account Required
+    details: Easy to set up. You have to remember just one password.
+    image: <i class="bi bi-arrow-up-right-circle"></i>
+    # action: Call to action 
+  - title: and more...
+    details: Easy to set up. You have to remember just one password.
+    image: <i class="bi bi-plus-circle-dotted"></i>
+    # action: Call to action 
+
