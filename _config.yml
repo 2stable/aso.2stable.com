@@ -9,6 +9,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-minifier
 
 privacy_url: /privacy-policy/
 date: "Effective date: December 19, 2020"
