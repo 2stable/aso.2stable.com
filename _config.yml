@@ -33,31 +33,27 @@ features:
     image: <i class="bi bi-puzzle"></i>
     # action: Call to action
   - title: Track Visibility in Search
-    details: Analyze and compare the visibility in Search per country and globally. Use our app keywords tools to do keyword research, spy competitors' keywords and compare rankings with them. But remember, App Store Optimization is not only about Search.
+    details: Analyze and compare the visibility in search per country and globally.
     image: <i class="bi bi-bullseye"></i>
     # action: Call to action 
   - title: Keyword Research
-    details: Find out your app currently ranking by a specific keyword.
+    details: Choose the most relevant keywords for your app.
     image: <i class="bi bi-search"></i>
     # action: Call to action 
   - title: Top Charts
     details: Browse the top apps for each country and category. Compare top performing apps for Free, Paid and Grossing.
     image: <i class="bi bi-list-ol"></i>
     # action: Call to action 
-  - title: Friendly Support
-    details: Easy to set up. You have to remember just one password.
+  - title: Friendly 24/7 Email Support
+    details: Our support team is always ready to help you.
     image: <i class="bi bi-life-preserver"></i>
     # action: Call to action 
   - title: Keyword Rankings
-    details: Easy to set up. You have to remember just one password.
+    details: Discover what apps a ranking by a specific keyword.
     image: <i class="bi bi-graph-up"></i>
     # action: Call to action 
-  - title: No Account Required
-    details: Easy to set up. You have to remember just one password.
-    image: <i class="bi bi-arrow-up-right-circle"></i>
-    # action: Call to action 
   - title: and more...
-    details: Easy to set up. You have to remember just one password.
+    details: Many other features are on the way.
     image: <i class="bi bi-plus-circle-dotted"></i>
     # action: Call to action 
 
