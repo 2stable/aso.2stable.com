@@ -15,7 +15,7 @@ date: "Effective date: December 19, 2020"
 terms_of_service_url: /terms-of-service/
 support_mail: mailto:support@2stable.com
 # github_username: 2stable
-twitter_username: aso2stable
+twitter_username: @aso2stable
 
 main-title: One ASO Tool for iOS, iPadOS and macOS
 main-description: "Easily track & optimize your App Store Optimization strategy, increase downloads and grow your business with our app marketing tool."
@@ -29,7 +29,7 @@ APP_NAME: ASO by 2Stable
 
 features:
   - title: No Account Required
-    details: Easy to set up. You have to remember just one password.
+    details: All the data is processed locally on your device.
     image: <i class="bi bi-puzzle"></i>
     # action: Call to action
   - title: Track Visibility in Search
@@ -37,11 +37,11 @@ features:
     image: <i class="bi bi-bullseye"></i>
     # action: Call to action 
   - title: Keyword Research
-    details: Easy to set up. You have to remember just one password.
+    details: Find out your app currently ranking by a specific keyword.
     image: <i class="bi bi-search"></i>
     # action: Call to action 
   - title: Top Charts
-    details: Easy to set up. You have to remember just one password.
+    details: Browse the top apps for each country and category. Compare top performing apps for Free, Paid and Grossing.
     image: <i class="bi bi-list-ol"></i>
     # action: Call to action 
   - title: Friendly Support
