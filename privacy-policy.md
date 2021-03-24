@@ -2,7 +2,7 @@
 layout: markdown
 title: Privacy Policy
 description: The privacy policy is a boring document but we strongly recommend you to read it thoroughly. It is really short.
-date: "Effective date: March 19, 2021"
+date: "Effective date: March 24, 2021"
 permalink: /privacy-policy/
 ---
 ## Privacy Policy
