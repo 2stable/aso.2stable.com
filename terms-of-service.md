@@ -2,7 +2,7 @@
 layout: markdown
 title: Terms of Service
 description: View the Service Agreement for Authenticator users and customers.
-date: "Effective date: March 19, 2021"
+date: "Effective date: March 24, 2021"
 permalink: /terms-of-service/
 ---
 ### Your Acceptance
@@ -20,7 +20,7 @@ Accordingly, we encourage you to be aware when you leave the Service and to read
 <br>
 
 ### {{ site.APP_NAME }} Premium Subscription
-With an {{ site.APP_NAME }} Premium subscription, you have access to all features, {{ site.APP_NAME }} Premium subscription is billed annually at the rate corresponding to the selected plan. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. To cancel your subscription, you can go to your device Settings> iTunes & App Store, tap your Apple ID, tap View Apple ID, tap Subscriptions, click on 'Cancel Subsciption' for the app. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. All fees and charges are non-refundable. If you would like to cancel your subscription, switch to another premium service package, please contact us. You are responsible for the content you publish and distribute on {{ site.APP_NAME }}. You warrant that you own or have necessary licenses, rights, consents and permissions to publish the contents. You agree not to publish and create any premium listings for contents that violate our Terms of Service. {{ site.APP_NAME }} has the right to remove the listings without any prior notice and fees or charges will not be refunded. You understand that your subscription or access to contents of the Site will be suspended if you violate the Terms of Service. Suspended accounts will not be restored and fees or charges will not be refunded.
+With an {{ site.APP_NAME }} Premium subscription, you have access to all features, {{ site.APP_NAME }} Premium subscription is billed monthly at the rate corresponding to the selected plan. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. To cancel your subscription, you can go to your device Settings> iTunes & App Store, tap your Apple ID, tap View Apple ID, tap Subscriptions, click on 'Cancel Subsciption' for the app. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. All fees and charges are non-refundable. If you would like to cancel your subscription, switch to another premium service package, please contact us. You are responsible for the content you publish and distribute on {{ site.APP_NAME }}. You warrant that you own or have necessary licenses, rights, consents and permissions to publish the contents. You agree not to publish and create any premium listings for contents that violate our Terms of Service. {{ site.APP_NAME }} has the right to remove the listings without any prior notice and fees or charges will not be refunded. You understand that your subscription or access to contents of the Site will be suspended if you violate the Terms of Service. Suspended accounts will not be restored and fees or charges will not be refunded.
 
 <br>
 
@@ -79,12 +79,6 @@ You further agree that Content you submit to the Service will not contain third 
 
 <br>
 
-### Google Analytics
-{{ site.APP_NAME }} can use different Analytics tracking code to support Display Advertising. The service we have implemented is the Google Analytics.
-{{ site.APP_NAME }} will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless {{ site.APP_NAME }} have robust notice of, and the your prior affirmative (i.e., opt-in) consent to, that merger. We encourage you to read more on Google Analytics opt-out browser add-on.
-{{ site.APP_NAME }} may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics. This helps {{ site.APP_NAME }} better understand how our Service is being used and to help tailor content and advertising on the Service.
-
-<br>
 
 ### Ability to Accept Terms of Service
 You affirm that you are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Service, and to abide by and comply with these Terms of Service.
