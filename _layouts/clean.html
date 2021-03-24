@@ -20,20 +20,12 @@
   </head>
   
   <body class="container">
-    {%- include nav.html -%}
 
-    <div class="row justify-content-center">
-      <div class="col-md-9 p-4 py-md-5" role="banner">
-        <h1>{{ page.title | default: site.title }}</h1>
-        <h2 class="lead">{{ page.description | default: site.description }}</h2>
-        <p class="text-muted">{{ page.date | default: site.date }}</p>
-      </div>
-      <div class="col-md-9 shadow-sm p-4 p-md-5">
+    <div>
+      <div class="p-4 p-md-5">
         {{ content }}
       </div>
     </div>
-
-    {%- include footer.html -%}
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
