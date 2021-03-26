@@ -31,7 +31,7 @@ The app usage analytics collected is minimal but essential to help us run our bu
 * In-App Purchases.
 * Device type, CPU architecture, and version of the operating system.
 
-We use Mixpanel to collect and manage this data.
+We use Amplitude to collect and manage this data.
 
 <br>
 
