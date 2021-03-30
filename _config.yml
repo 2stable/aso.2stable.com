@@ -22,9 +22,9 @@ support_mail: mailto:support@2stable.com
 twitter_username: aso2stable
 
 main-title: ASO Tools to Increase Organic Downloads
-main-description: "Easily track & optimize your App Store Optimization strategy, increase downloads and grow your business with our app marketing tool."
+main-description: "Easily track and enhance your App Store Optimization strategy, increase downloads and grow your business with our app marketing tool."
 
-app-url: https://apps.apple.com/app/apple-store/id1538761576?pt=122171064&ct=2stable.com.mac&mt=8#?platform=mac
+app-url: https://apps.apple.com/app/apple-store/id1559277129?pt=122171064&ct=2stable.com.mac&mt=8#?platform=mac
 app-src: https://one-badge.com/b/apple/mac.svg
 app-alt: macOS Apple App Badge
 
@@ -33,11 +33,11 @@ APP_NAME: ASO by 2Stable
 
 features:
   - title: No Account Required
-    details: All the data is processed locally on your device.
+    details: All of the data is processed locally on your device.
     image: <i class="bi bi-puzzle"></i>
     # action: Call to action
   - title: Track Visibility in Search
-    details: Analyze and compare the visibility in search per country and globally.
+    details: Analyze and compare the visibility in search, either globally or per country.
     image: <i class="bi bi-bullseye"></i>
     # action: Call to action 
   - title: Keyword Research
@@ -53,7 +53,7 @@ features:
     image: <i class="bi bi-life-preserver"></i>
     # action: Call to action 
   - title: Keyword Rankings
-    details: Discover what apps a ranking by a specific keyword.
+    details: Discover what apps are ranking by a specific keyword.
     image: <i class="bi bi-graph-up"></i>
     # action: Call to action 
   - title: and more...
