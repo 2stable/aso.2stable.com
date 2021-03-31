@@ -81,8 +81,8 @@ You further agree that Content you submit to the Service will not contain third 
 
 ### RevenueCat
 
-APP_NAME can use different services to validate the receipt for subscription status. The service we have implemented is RevenueCat.
-APP_NAME uses RevenueCat to fetch products, make purchases, and check subscription status.
+{{ site.APP_NAME }} can use different services to validate the receipt for subscription status. The service we have implemented is RevenueCat.
+{{ site.APP_NAME }} uses RevenueCat to fetch products, make purchases, and check subscription status.
 
 <br>
 
