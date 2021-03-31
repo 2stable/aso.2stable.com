@@ -79,6 +79,12 @@ You further agree that Content you submit to the Service will not contain third 
 
 <br>
 
+### RevenueCat
+
+APP_NAME can use different services to validate the receipt for subscription status. The service we have implemented is RevenueCat.
+APP_NAME uses RevenueCat to fetch products, make purchases, and check subscription status.
+
+<br>
 
 ### Ability to Accept Terms of Service
 You affirm that you are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Service, and to abide by and comply with these Terms of Service.
