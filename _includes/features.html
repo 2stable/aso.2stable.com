@@ -7,11 +7,11 @@
         <div class="row g-5 py-5">
             {% for item in site.features %}
             <div class="feature col-md-4">
-                <div class="feature-icon bg-primary bg-gradient">
+                <div class="feature-icon bg-primary">
                   {{ item.image }}
                 </div>
-                <h3>{{ item.title }}</h3>
-                <p>{{ item.details }}</p>
+                <h3 class="fs-4">{{ item.title }}</h3>
+                <p class="lead">{{ item.details }}</p>
                 <a href="#" class="icon-link">
                     {{ item.action }}
                     <!-- <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg> -->

@@ -7,8 +7,8 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 3rem;
+  height: 3rem;
   margin-bottom: 1rem;
   font-size: 2rem;
   color: #fff;
@@ -285,4 +285,22 @@ color: rgba(255,255,255);
 
 .rounded-img {
 border-radius: 1.6rem;
+}
+.rounded-img-033 {
+  border-radius: 0.33rem;
+}
+.rounded-img-050 {
+  border-radius: 0.5rem;
+}
+.rounded-img-075 {
+  border-radius: 0.75rem;
+}
+.rounded-img-10 {
+  border-radius: 1rem;
+}
+.rounded-img-15 {
+  border-radius: 1.5rem;
+}
+.rounded-img-20 {
+  border-radius: 2rem;
 }
