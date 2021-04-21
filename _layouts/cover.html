@@ -10,25 +10,19 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
+    <meta name="google-site-verification" content="{{ site.google_verification }}" />
     <meta charset="UTF-8">
-    <meta name="twitter:site" content="@aso2stable">
-    <meta name="twitter:creator" content="@aso2stable">
-    <meta name="twitter:image" content="https://aso.2stable.com/assets/main.jpeg">
-    <meta name="twitter:description" content="Easily track & optimize your App Store Optimization strategy, increase downloads and grow your business with our app marketing tool.">
-    <meta name="twitter:app:name:iphone" content="ASO by 2Stable">
+    <meta name="twitter:site" content="@authwidget">
+    <meta name="twitter:creator" content="@authwidget">
+    <meta name="twitter:image" content="https://authenticator.2stable.com/assets/img/aso-Icon-512.png">
+    <meta name="twitter:description" content="Secure and fast Two-Factor Authentication manager for iPhone, iPad, iPod, Apple Watch and macOS.">
+    <meta name="twitter:app:name:iphone" content="Authenticator App">
     <meta name="twitter:app:id:iphone" content="1538761576">
-    <meta name="twitter:app:name:ipad" content="ASO by 2Stable">
+    <meta name="twitter:app:name:ipad" content="Authenticator App">
     <meta name="twitter:app:id:ipad" content="1538761576">
-    <meta property="og:image" content="https://aso.2stable.com/assets/main.jpeg">
+    <meta property="og:image" content="https://authenticator.2stable.com/assets/img/aso-Icon-512.png">
     <meta property="og:type" content="website">
-{% seo %}
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -42,16 +36,15 @@
   </head>
   <body class="d-flex h-100">
     <div class="d-flex w-100 h-100 mx-auto flex-column">
-      <div class="mb-auto">
-        {%- include nav.html -%}
-      </div>
-      <div class="px-2 container">
-        {%- include main.html -%}
-        {%- include features.html -%}
-      </div>
-      <div class="mt-auto">
-        {%- include footer.html -%}
-      </div>
+        <div class="mb-auto">
+            {%- include nav.html -%}
+        </div>
+        <div class="px-2 text-center">
+            {{ content }}
+        </div>
+        <div class="mt-auto">
+            {%- include footer.html -%}
+        </div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
