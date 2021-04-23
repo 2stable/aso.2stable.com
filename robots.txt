@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aso.2stable.com/sitemap.xml
